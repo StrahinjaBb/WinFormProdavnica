@@ -1,0 +1,14 @@
+C:\Users\Straja\Desktop\VISER\semestar4\TVP\Projekat_2.1\v9\v9\v9\bin\Debug\v9.exe.config
+C:\Users\Straja\Desktop\VISER\semestar4\TVP\Projekat_2.1\v9\v9\v9\bin\Debug\v9.exe
+C:\Users\Straja\Desktop\VISER\semestar4\TVP\Projekat_2.1\v9\v9\v9\bin\Debug\v9.pdb
+C:\Users\Straja\Desktop\VISER\semestar4\TVP\Projekat_2.1\v9\v9\v9\obj\Debug\prj.csprojAssemblyReference.cache
+C:\Users\Straja\Desktop\VISER\semestar4\TVP\Projekat_2.1\v9\v9\v9\obj\Debug\v9.Form1.resources
+C:\Users\Straja\Desktop\VISER\semestar4\TVP\Projekat_2.1\v9\v9\v9\obj\Debug\v9.Properties.Resources.resources
+C:\Users\Straja\Desktop\VISER\semestar4\TVP\Projekat_2.1\v9\v9\v9\obj\Debug\prj.csproj.GenerateResource.cache
+C:\Users\Straja\Desktop\VISER\semestar4\TVP\Projekat_2.1\v9\v9\v9\obj\Debug\prj.csproj.CoreCompileInputs.cache
+C:\Users\Straja\Desktop\VISER\semestar4\TVP\Projekat_2.1\v9\v9\v9\obj\Debug\v9.exe
+C:\Users\Straja\Desktop\VISER\semestar4\TVP\Projekat_2.1\v9\v9\v9\obj\Debug\v9.pdb
+C:\Users\Straja\Desktop\VISER\semestar4\TVP\Projekat_2.1\v9\v9\v9\obj\Debug\v9.FormDodajProizvod.resources
+C:\Users\Straja\Desktop\VISER\semestar4\TVP\Projekat_2.1\v9\v9\v9\obj\Debug\v9.FormRacun.resources
+C:\Users\Straja\Desktop\VISER\semestar4\TVP\Projekat_2.1\v9\v9\v9\obj\Debug\v9.FormSviRacuni.resources
+C:\Users\Straja\Desktop\VISER\semestar4\TVP\Projekat_2.1\v9\v9\v9\obj\Debug\v9.FormStatistika.resources
